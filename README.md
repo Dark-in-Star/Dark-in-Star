@@ -13,7 +13,7 @@
 
   <p align="center">
     ✨ Creating bugs since 2015👨‍🎓<br><br>
-    📚 I'm currently learning Azure📉<br><br>
+    📚 I'm currently learning Flutter📉<br><br>
     🎯 Goals: earn money to enjoy my life💸<br><br>
 <!--     🎲 Fun fact: Got Microsoft Domain in LTIMindtree😂 -->
   </p>
