@@ -34,8 +34,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkKingStar&radius=12&theme=nord&area=true&order=5&bg_color=white&color=ffffff&title_color=ffffff&line=2dba4e&area_color=90EE90&point=ececec&hide_border=true&hide_title=false&custom_title=%F0%9F%93%88%20My%20Contribution" height="220"   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkKingStar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=true&order=2&custom_title=My%20Most%20Used%20Language%F0%9F%92%AA" height="220" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dark-in-Star&radius=12&theme=nord&area=true&order=5&bg_color=white&color=ffffff&title_color=ffffff&line=2dba4e&area_color=90EE90&point=ececec&hide_border=true&hide_title=false&custom_title=%F0%9F%93%88%20My%20Contribution" height="220"   />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dark-in-Star&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=true&order=2&custom_title=My%20Most%20Used%20Language%F0%9F%92%AA" height="220" alt="languages graph"  />
 </div>
 
 ###
@@ -94,12 +94,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DarkKingStar/DarkKingStar/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Dark-in-Star/Dark-in-Star/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DarkKingStar&locale=en&mode=weekly&theme=gruvbox&hide_border=true&border_radius=12&date_format=%5BY%20%5DM%20j&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Dark-in-Star&locale=en&mode=weekly&theme=gruvbox&hide_border=true&border_radius=12&date_format=%5BY%20%5DM%20j&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
