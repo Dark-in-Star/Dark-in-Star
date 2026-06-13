@@ -105,7 +105,7 @@
 
 ###
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCuDWFyiFC0Wk_036ibc-mAg" target="_blank" alt='youtube'>
+  <a href="https://www.youtube.com/@codereact345" target="_blank" alt='youtube'>
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/_darkinstar" target="_blank" alt='instagram'>
