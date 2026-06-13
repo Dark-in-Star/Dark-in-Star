@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <img height="220" src="https://raw.githubusercontent.com/gist/siddharth151199/14682974567534e7d396f6e7fa596696/raw/50cc1628f8918648b01d095dc027b9f81f0cba48/giphy.gif"  />
+  <img height="450" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVmdGRpNnFiZTA3aWhxMnV5YXJsOGtjNm85ZHU2Z2pkNXFheGllayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
 </div>
 
 ###
@@ -57,7 +57,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
